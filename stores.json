@@ -1,0 +1,13 @@
+[
+  {
+    "_id": {
+      "$oid": "5fb23b34f37b74ef868c5b9e"
+    },
+    "name": "zalando",
+    "url": "https://www.zalando.nl",
+    "active": true,
+    "region": "NL",
+    "appDomain": 5,
+    "products": ["ni112o0bt-q11"]
+  }
+]

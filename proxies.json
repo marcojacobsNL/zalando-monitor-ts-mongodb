@@ -1,0 +1,6 @@
+[{
+  "_id": {
+    "$oid": "5fb3a1eff37b74ef868c5ba0"
+  },
+  "proxy": "ip:port:username:port"
+}]

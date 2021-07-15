@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://img01.ztat.net/article/spp-media-p1/8e311d55fda2338b83fe6648ffffdf49/7c94b24aad6c47aebe00c2dc50d676d2.jpg?imwidth=150",
+  "productOptions": [],
+  "name": "Trui - light grey melange",
+  "sku": "R0622Q02U-C11",
+  "url": "https://www.zalando.nl/redefined-rebel-trui-light-grey-melange-r0622q02u-c11.html",
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.490Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.490Z"
+  },
+  "__v": 0,
+  "price": "32.85"
+},{
+  "_id": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic04.ztat.net/vgs/media/catalog/spp-media-p1/d27915b6405436599787eceac58c8c9b/9f06bf2a6dcd42e684c401d1bcbb73e0.jpg",
+  "productOptions": [],
+  "name": "AIR 1 MID UNISEX - Basketbalschoenen - black/racer blue/white/total orange",
+  "sku": "JOC43A011-Q21",
+  "price": 79.95,
+  "url": "https://www.zalando.nl/jordan-air-1-mid-unisex-basketbalschoenen-blackracer-bluewhitetotal-orange-joc43a011-q21.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:06.957Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:06.957Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic03.ztat.net/vgs/media/catalog/spp-media-p1/cb45120253543838973db54b5a3fa992/00408c75a16741ddbcabc76ea5e4d1a3.jpg",
+  "productOptions": [],
+  "name": "AIR 1 - Sneakers laag - court purple/black/white/hot punch",
+  "sku": "JOC12O006-I12",
+  "price": 109.95,
+  "url": "https://www.zalando.nl/jordan-air-1-sneakers-laag-court-purpleblackwhitehot-punch-joc12o006-i12.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.368Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.368Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic04.ztat.net/vgs/media/catalog/spp-media-p1/4c5df90587a53976b5799e36a1992cf0/c8b8b3809c0b4999bf30aa3f11809d5e.jpg",
+  "productOptions": [],
+  "name": "AIR 1 LOW UNISEX - Basketbalschoenen - court purple/black/white/hot punch",
+  "sku": "JOC43A00Y-I11",
+  "price": 74.95,
+  "url": "https://www.zalando.nl/jordan-air-1-low-unisex-basketbalschoenen-court-purpleblackwhitehot-punch-joc43a00y-i11.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.164Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.164Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://img01.ztat.net/article/spp-media-p1/b1fd5b57ce533b18bce07cfc186c29cb/83ad885818094726a82f4bd2817d3ea2.jpg?imwidth=150",
+  "productOptions": [],
+  "name": "AIR 1 MID SE - Basketbalschoenen - white/court purple/black/particle grey/hot punch",
+  "sku": "JOC43A013-A13",
+  "price": 84.95,
+  "url": "https://www.zalando.nl/jordan-air-1-mid-se-basketbalschoenen-whitecourt-purpleblackparticle-greyhot-punch-joc43a013-a13.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:06.887Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:06.887Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic03.ztat.net/vgs/media/catalog/spp-media-p1/d3769b383baf3a1d909126e3e7934c63/58269cc411364b14b6ae1593442b0ecd.jpg",
+  "productOptions": [],
+  "name": "AIR JORDAN 1 MID SE - Sneakers hoog - desert ochre/white/black",
+  "sku": "JOC11A023-B11",
+  "price": 114.95,
+  "url": "https://www.zalando.nl/jordan-sneakers-hoog-desert-ochrewhiteblack-joc11a023-b11.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.535Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.535Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic04.ztat.net/vgs/media/catalog/spp-media-p1/7b7fd752870f3c4489e299cbb17e3dd4/025fb31d5bf94a18848ad98076366ca6.jpg",
+  "productOptions": [],
+  "name": "AIR 1 MID - Sneakers hoog - red temporary",
+  "sku": "JOC12N001-G15",
+  "price": 119.95,
+  "url": "https://www.zalando.nl/jordan-air-1-mid-sneakers-hoog-red-temporary-joc12n001-g15.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.886Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic04.ztat.net/vgs/media/catalog/spp-media-p1/2e4ae62f312b3cbc9f2892b71c233cfe/adb2bac4283e49dd8297955d4816fa14.jpg",
+  "productOptions": [],
+  "name": "AIR 1 - Sneakers laag - gym red/black/white",
+  "sku": "JOC12O006-Q14",
+  "price": 104.95,
+  "url": "https://www.zalando.nl/jordan-air-1-sneakers-laag-joc12o006-q14.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.889Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.889Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "storeId": "5fb23b34f37b74ef868c5b9e",
+  "image": "https://mosaic03.ztat.net/vgs/media/catalog/spp-media-p1/10af384786b03508885af8f84c568a0c/aafb1f1f6a27402a9fa59ea8a8297a89.jpg",
+  "productOptions": [],
+  "name": "AIR JORDAN 1  - Sneakers hoog - lucky green/black/white/sail/university red",
+  "sku": "JOC11A021-M11",
+  "price": 154.95,
+  "url": "https://www.zalando.nl/jordan-sneakers-hoog-lucky-greenblackwhitesailuniversity-red-joc11a021-m11.html",
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.981Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.981Z"
+  },
+  "__v": 0
+}]

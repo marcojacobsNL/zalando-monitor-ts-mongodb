@@ -1,0 +1,1855 @@
+[{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d3"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "R0622Q02U-C1100XS000",
+  "name": "XS",
+  "product": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.737Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.738Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d4"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "R0622Q02U-C11000S000",
+  "name": "S",
+  "product": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.738Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.738Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d5"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "R0622Q02U-C11000M000",
+  "name": "M",
+  "product": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.738Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.738Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d6"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "R0622Q02U-C11000L000",
+  "name": "L",
+  "product": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.739Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.739Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d7"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "R0622Q02U-C1100XL000",
+  "name": "XL",
+  "product": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.739Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.739Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2c1f363d31f97e04429d8"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "R0622Q02U-C110XXL000",
+  "name": "XXL",
+  "product": {
+    "$oid": "5fb2c1f363d31f97e04429d2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T18:16:19.739Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T18:16:19.739Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a07d"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11040Y000",
+  "name": "36",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.707Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a082"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11065Y000",
+  "name": "39",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a07c"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11035Y000",
+  "name": "35.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.707Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a07e"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11045Y000",
+  "name": "36.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.707Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a07f"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11050Y000",
+  "name": "37.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a081"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11060Y000",
+  "name": "38.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a083"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11070Y000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.709Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.709Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a080"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A00Y-I11055Y000",
+  "name": "38",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a079"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a084"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21035Y000",
+  "name": "35.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.728Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.728Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a085"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21040Y000",
+  "name": "36",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a086"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21045Y000",
+  "name": "36.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a087"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21050Y000",
+  "name": "37.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a088"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21055Y000",
+  "name": "38",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a089"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21060Y000",
+  "name": "38.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a08a"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21065Y000",
+  "name": "39",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.730Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.730Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a08b"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A011-Q21070Y000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a078"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.730Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.730Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a08d"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13040Y000",
+  "name": "36",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.734Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.734Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a08c"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13035Y000",
+  "name": "35.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.734Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.734Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a08e"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13045Y000",
+  "name": "36.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.734Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.734Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a08f"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13050Y000",
+  "name": "37.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a090"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13055Y000",
+  "name": "38",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a091"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13060Y000",
+  "name": "38.5",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a092"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13065Y000",
+  "name": "39",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a093"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC43A013-A13070Y000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaae5e9b479d1664a077"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a094"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120070000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a095"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120075000",
+  "name": "40.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a096"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120080000",
+  "name": "41",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a097"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120085000",
+  "name": "42",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.740Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a098"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120090000",
+  "name": "42.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a099"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120095000",
+  "name": "43",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a09a"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120100000",
+  "name": "44",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a09d"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120115000",
+  "name": "45.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a09c"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "JOC12O006-I120110000",
+  "name": "45",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a09e"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120120000",
+  "name": "46",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a09b"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120105000",
+  "name": "44.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a09f"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120125000",
+  "name": "47",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a0"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120130000",
+  "name": "47.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a1"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120140000",
+  "name": "48.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a5"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110055000",
+  "name": "36",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.780Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.780Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a3"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-I120160000",
+  "name": "50.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.743Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a4"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110005000",
+  "name": "35.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.779Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a2"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": true,
+  "sku": "JOC12O006-I120150000",
+  "name": "49.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07a"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.743Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a9"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110075000",
+  "name": "38.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a8"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110007000",
+  "name": "38",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a7"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110065000",
+  "name": "37.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.780Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0a6"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110006000",
+  "name": "36.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.780Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.780Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0aa"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110008000",
+  "name": "39",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0ad"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110095000",
+  "name": "41",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.783Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.783Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0ab"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110085000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0ae"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110010000",
+  "name": "42",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.783Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.783Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0af"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110105000",
+  "name": "42.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.783Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.783Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0ac"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110009000",
+  "name": "40.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.782Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.782Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b0"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A023-B110011000",
+  "name": "43",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a07b"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:07.784Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:07.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0e9"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150070000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.204Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.204Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0eb"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150080000",
+  "name": "41",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.205Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0ee"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150095000",
+  "name": "43",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.207Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0ef"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150100000",
+  "name": "44",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.207Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f0"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150105000",
+  "name": "44.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.208Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0ec"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150085000",
+  "name": "42",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.206Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.206Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0ea"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150075000",
+  "name": "40.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.205Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0ed"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150090000",
+  "name": "42.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.206Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.206Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f1"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150110000",
+  "name": "45",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.208Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f2"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150115000",
+  "name": "45.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.208Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f3"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150120000",
+  "name": "46",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.209Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f4"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150125000",
+  "name": "47",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.209Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f6"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150140000",
+  "name": "48.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.211Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f5"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150130000",
+  "name": "47.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.210Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f7"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12N001-G150150000",
+  "name": "49.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b1"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.211Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f8"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140070000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.267Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.267Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0fa"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140080000",
+  "name": "41",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.268Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0f9"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140075000",
+  "name": "40.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.268Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0fb"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140085000",
+  "name": "42",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.270Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0fc"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140090000",
+  "name": "42.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.271Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.271Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0fe"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140100000",
+  "name": "44",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.272Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.272Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0fd"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140095000",
+  "name": "43",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.271Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.271Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a0ff"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140105000",
+  "name": "44.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.284Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a100"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140110000",
+  "name": "45",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.284Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a101"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140115000",
+  "name": "45.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.285Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a102"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140120000",
+  "name": "46",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.285Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a104"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140130000",
+  "name": "47.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.286Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a103"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140125000",
+  "name": "47",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.286Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a105"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140140000",
+  "name": "48.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.286Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a106"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140150000",
+  "name": "49.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.287Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a107"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC12O006-Q140160000",
+  "name": "50.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b2"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.287Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a108"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110005000",
+  "name": "35.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.393Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a109"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110055000",
+  "name": "36",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.394Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.394Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a10a"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110006000",
+  "name": "36.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.418Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.418Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a10b"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110065000",
+  "name": "37.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.419Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.419Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a10d"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110075000",
+  "name": "38.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.421Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.421Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a10c"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110007000",
+  "name": "38",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.420Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.420Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a10e"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110008000",
+  "name": "39",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.463Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.463Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a10f"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110085000",
+  "name": "40",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.464Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.464Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a110"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110009000",
+  "name": "40.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.464Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.464Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a111"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110095000",
+  "name": "41",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.465Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.465Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a112"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110010000",
+  "name": "42",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.465Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.465Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a113"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110105000",
+  "name": "42.5",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.466Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.466Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2eab15e9b479d1664a114"
+  },
+  "store": "5fb23b34f37b74ef868c5b9e",
+  "inStock": false,
+  "sku": "JOC11A021-M110011000",
+  "name": "43",
+  "product": {
+    "$oid": "5fb2eaaf5e9b479d1664a0b3"
+  },
+  "updatedDate": {
+    "$date": "2020-11-16T21:10:09.467Z"
+  },
+  "createdDate": {
+    "$date": "2020-11-16T21:10:09.467Z"
+  },
+  "__v": 0
+}]
